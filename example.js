@@ -71,8 +71,8 @@
 // console.log("3");
 
 
-import { getname } from "./ex2"
-console.log(getname)
+// import { getname } from "./ex2"
+// console.log(getname)
 
 
 
